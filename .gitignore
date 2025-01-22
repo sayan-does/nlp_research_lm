@@ -1,0 +1,5 @@
+.bert_models/*
+.improved_dqn_checkpoints/*
+.extracted_files/*
+processedata/*
+
